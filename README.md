@@ -1,0 +1,2 @@
+# yangpei123455
+AVPlayerWithSlederAndHiddenOrShowView
